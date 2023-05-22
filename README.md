@@ -1,5 +1,5 @@
 # Operating-System-Simulator
- ## Title:Interpreter, Mutexes, and Process Scheduler Implementation
+ ## Interpreter, Mutexes, and Process Scheduler Implementation
  The goal of this project is to develop a comprehensive system that includes an interpreter for executing code stored in text files, mutexes to ensure mutual exclusion over critical resources, and a scheduler to efficiently manage processes within the system.
 
 The primary component of the system is the interpreter. It will be designed to read and interpret code from text files. The interpreter will analyze the code, execute the instructions, and produce the desired outcomes. This functionality enables the system to process and execute various scripts or programs, providing a dynamic environment for code execution.
